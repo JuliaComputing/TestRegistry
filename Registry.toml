@@ -1,0 +1,9 @@
+name = "TestRegistry"
+uuid = "d09a6c28-d263-11e9-1d76-7b9f7015dbd4"
+repo = "https://github.com/JuliaComputing/TestRegistry.git"
+
+description = """
+JC Test Registry
+"""
+
+[packages]
