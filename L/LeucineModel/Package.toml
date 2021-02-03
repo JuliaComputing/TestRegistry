@@ -1,0 +1,3 @@
+name = "LeucineModel"
+uuid = "f51c398c-f501-11e9-1bf8-2302628c9e2e"
+repo = "https://github.com/nkottary/LeucineModel.jl.git"
