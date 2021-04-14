@@ -8,6 +8,7 @@ JC Test Registry
 
 [packages]
 7876af07-991d-54b4-ab0e-23690620f79b = { name = "PrivateExample", path = "P/PrivateExample" }
+914fd8de-29fd-11e9-0a06-012b13fb43aa = { name = "TestReg", path = "T/TestReg" }
 aa32b3ae-9d2b-4028-8f83-f09b732ffa1f = { name = "TestDependency", path = "T/TestDependency" }
 c21cdcaf-0d93-4d92-8cdb-99636d8a79d4 = { name = "SampleDash", path = "S/SampleDash" }
 f269a46b-ccf7-5d73-abea-4c690281aa53 = { name = "TimeZones", path = "T/TimeZones" }
