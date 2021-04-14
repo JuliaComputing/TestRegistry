@@ -1,0 +1,3 @@
+name = "TestDependency"
+uuid = "aa32b3ae-9d2b-4028-8f83-f09b732ffa1f"
+repo = "https://github.com/nkottary/TestDependency.jl.git"
